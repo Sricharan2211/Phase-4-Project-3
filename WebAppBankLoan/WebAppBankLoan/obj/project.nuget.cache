@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFf/NaZ6SGfg1Mj2nAOEDcIUzPA5QJ3A6jeqe9uoj7PonmmaquCHhYPjpNp2L02dJ1ThukejT1rHE5Ds/rLPrw==",
+  "success": true,
+  "projectFilePath": "D:\\Phase 4 Project 3\\WebAppBankLoan\\WebAppBankLoan\\WebAppBankLoan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\WebAppBankLoan.exe
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\WebAppBankLoan.dll
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\WebAppBankLoan.deps.json
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\WebAppBankLoan.runtimeconfig.json
+D:\Phase 4 Project 3\WebAppBankLoan\WebAppBankLoan\obj\Release\net6.0\PubTmp\Out\WebAppBankLoan.pdb
